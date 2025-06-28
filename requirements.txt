@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+PyMuPDF
+unstructured
+matplotlib
+tabulate
